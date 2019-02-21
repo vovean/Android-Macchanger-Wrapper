@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Change My Mac</string>
+    <string name="macchanger_default">/data/data/com.termux/files/usr/bin/macchanger</string>
+</resources>
